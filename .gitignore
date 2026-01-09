@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc  
+logs/
+
+#dataset
+Churn_Modelling.csv/
